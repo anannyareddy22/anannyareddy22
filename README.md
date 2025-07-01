@@ -13,7 +13,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anannyareddy/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anannyareddy22)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agade4@asu.edu)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=dribbble&logoColor=white)](https://your-portfolio-link.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=dribbble&logoColor=white)](https://anannyareddy22.github.io/)
   
 </div>
 
